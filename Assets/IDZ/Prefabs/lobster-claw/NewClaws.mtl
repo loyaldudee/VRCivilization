@@ -1,0 +1,12 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl material_0.003
+Ns 899.999939
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd lobster-claw/source/crab claw_43_17/crab claw_43.17.jpg
