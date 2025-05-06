@@ -141,6 +141,10 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
   preloadedAssets:
+<<<<<<< HEAD
+=======
+  - {fileID: 11400000, guid: f45366d7c5900514aa2db50f2f1e3adb, type: 2}
+>>>>>>> e48739029e6500417e8379c6e0e74a566def1dda
   - {fileID: 2260523076469279183, guid: 4b7609a753093c84bb285d51bb42a4ca, type: 2}
   - {fileID: 765153519981600918, guid: 9cb1bc7bd19c86e4d9b6f3f0494cb045, type: 2}
   metroInputSource: 0
@@ -171,7 +175,11 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
+<<<<<<< HEAD
   AndroidMinSdkVersion: 33
+=======
+  AndroidMinSdkVersion: 32
+>>>>>>> e48739029e6500417e8379c6e0e74a566def1dda
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 

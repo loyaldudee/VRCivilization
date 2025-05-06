@@ -7,7 +7,10 @@ TagManager:
   - Red
   - Blue
   - Green
+<<<<<<< HEAD
   - Grabbable
+=======
+>>>>>>> e48739029e6500417e8379c6e0e74a566def1dda
   layers:
   - Default
   - TransparentFX
